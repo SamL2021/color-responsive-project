@@ -73,7 +73,6 @@ footer {
   #column-3{
     background-color: #d397f4;
     width: 100%;
-    max-width: 1199px;
   }
 
   footer {
@@ -101,6 +100,7 @@ footer {
 
   #column-3 {
     background-color: #ff7a72;
+    width: 33.3%;
   }
 
   footer {
